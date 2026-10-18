@@ -22,7 +22,7 @@ I enjoy bringing **product thinking** and **engineering discipline** together �
 - 🧩 **Focus:** Full-stack development, scalable application design, and thoughtful UX
 - ⚡ **Approach:** Build for performance, maintainability, and real-world use
 - 🛠️ **Interests:** Commerce platforms, interactive products, and developer-friendly tooling
-- 🌐 **Website:** [PishanSoft](https://pishansoft.ir)
+- 🌐 **Website:** [Hoomankhan](https://hoomankhan.pishansoft.ir)
 
 ### 🧰 Technology stack
 
@@ -71,7 +71,7 @@ I enjoy bringing **product thinking** and **engineering discipline** together �
 
 I enjoy discussing ambitious web products, architecture, product design, and interesting technical challenges.
 
-**Explore:** [My GitHub](https://github.com/HoomanKhan53) · [PishanSoft](https://pishansoft.ir)
+**Explore:** [My GitHub](https://github.com/HoomanKhan53) · [Hoomankhan](https://hoomankhan.pishansoft.ir))
 
 <div align="center">
   <sub>Designed with care • Hooman Khanmohammadi</sub>
